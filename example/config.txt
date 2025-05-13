@@ -1,0 +1,2 @@
+Prefix plugins/PCR/example/
+Plugin PCR inputfile parameters.train.txt outputfile output.rds
